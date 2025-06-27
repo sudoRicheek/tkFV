@@ -13,3 +13,5 @@ python3 tkFV.py
 ```
 
 ## Demo
+
+![tkFV Demo](demo/demo_vi.gif)
