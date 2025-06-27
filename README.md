@@ -9,7 +9,9 @@ Have a list of image files you want to visualize in parallel? Use tkFV
 mamba env create -n tkfv -f env.yml
 mamba activate tkfv
 
-python3 tkFV.py
+pip install -e .
+
+tkFV
 ```
 
 ## Demo
